@@ -1,0 +1,27 @@
+/*star Main rules*/
+
+body {
+background-color: #888
+}
+.conatiner{
+    width: 1170px;
+    margin: auto;
+}
+/*End main rules*/
+/*start header*/
+.header.navbar{
+    background-color: #225f31;
+    color: #fff;
+    overflow: hidden;
+}
+.header.navbar h2{
+    float: left;
+}
+.header.navbar h2 span{color: #2ecc71;}
+.header.navbar ul{
+    list-style: none;
+    padding-left: 0;
+    overflow: hidden;
+    float: left;
+}
+.header.navbar ul li{float: left;padding: 10px;}
